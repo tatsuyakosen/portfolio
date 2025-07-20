@@ -44,6 +44,13 @@ h2 {
   padding-bottom: 0.3rem;
 }
 
+h3 {
+  font-size: 1.2rem;
+  margin-top: 1.5rem;
+  color: #444;
+}
+
+
 .project {
   background-color: #fff;
   border-left: 4px solid #007bff;
